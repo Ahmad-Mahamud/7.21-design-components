@@ -1,0 +1,29 @@
+.d155 {
+  color: #B9A589;
+  margin-bottom: 15px;
+}
+
+.d155 .digit {
+  text-align: center;
+  background-color: #FEFEFE;
+  border-radius: 15px 0;
+  padding-top: 15px;
+}
+
+.d155 .digit em {
+  background-color: #FFF3A5;
+  font-weight: bolder;
+  padding: 15px;
+}
+
+.diggit {
+  text-align: center;
+  border: 1px solid rgba(165, 225, 243, 0.6);
+  border-radius: 10px 0;
+  background-color: #f7f3f3;
+  color: #1678e9;
+  padding: 4px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+/*# sourceMappingURL=app.css.map */
