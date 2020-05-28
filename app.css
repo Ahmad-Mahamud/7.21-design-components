@@ -1,3 +1,7 @@
+.wrapper {
+  margin: 15% 20%;
+}
+
 .d155 {
   color: #B9A589;
   margin-bottom: 15px;
@@ -5,15 +9,16 @@
 
 .d155 .digit {
   text-align: center;
-  background-color: #FEFEFE;
+  background-color: #fff;
   border-radius: 15px 0;
-  padding-top: 15px;
+  height: 25px;
 }
 
 .d155 .digit em {
   background-color: #FFF3A5;
   font-weight: bolder;
-  padding: 15px;
+  width: 30px;
+  height: 25px;
 }
 
 .diggit {
